@@ -1,13 +1,26 @@
-#menu ul {
-  padding: 0px 50%;
-  margin: 0px;
+*{
+  margin: 0;
+  padding: 0;
+}
+.menu ul  {
+  /*padding: 0px 45%;
+  margin: 0px 45%;*/
+  margin-left: 45%;
+  margin-top: 5%;
   list-style-type:none;
-  background-color:#EDEDAC;
-  float:none;
-  width: 10%;
-  border-bottom:3px solid #EA0000;
+  background-color:#EEE9E9;
+  float:left;
+}
+#linha li{
+  padding-left: 9px;
+  position:relative;
+  float:left;
+  border-right:50px color: inherit ;
 }
 
-a{
-  margin: center;
+#home_text{
+  text-decoration-color: #FF69B4;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
