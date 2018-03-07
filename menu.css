@@ -2,12 +2,18 @@
   padding: 0px 50%;
   margin: 0px;
   list-style-type:none;
-  background-color:#EDEDAC;
+  background-color:#00BFFF;
   float:none;
   width: 10%;
   border-bottom:3px solid #EA0000;
+  display: inline-table;
 }
 
 a{
   margin: center;
+}
+
+#box-home a{
+
+  box-sizing: 10px;
 }
