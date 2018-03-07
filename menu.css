@@ -1,0 +1,13 @@
+#menu ul {
+  padding: 0px 50%;
+  margin: 0px;
+  list-style-type:none;
+  background-color:#EDEDAC;
+  float:none;
+  width: 10%;
+  border-bottom:3px solid #EA0000;
+}
+
+a{
+  margin: center;
+}
